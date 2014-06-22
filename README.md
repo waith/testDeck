@@ -1,7 +1,7 @@
 testDeck
 ========
 
-This is a test deck for publishing a slidify document.
+This is a test deck for publishing a slidify document for Develop Data Product course.
 
 Fork this repo.
 
